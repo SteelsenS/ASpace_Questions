@@ -7,8 +7,5 @@ This repository is to organize the questions and information being gathered to i
 - Use the index below to find a data point.
 - To edit, visit the [repository page itself](https://github.com/SteelsenS/ASpace_Questions)
 
-# Data Points
+# Index of Data Points
 
-# Testing
-Can you link to a user @steelsens
-Can you link to an issue #1
