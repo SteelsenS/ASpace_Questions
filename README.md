@@ -3,4 +3,9 @@ This repository is to organize the questions and information being gathered to i
 
 # How to use:
 - Questions go in the [issues](https://github.com/SteelsenS/ASpace_Questions/issues) area
-- Resolved information goes into the [pages](https://steelsens.github.io/ASpace_Questions) section- which should allow for this to be referenced easily into the future and to track changes
+- The easy to read version is in [pages](https://steelsens.github.io/ASpace_Questions). 
+- Use the index below to find a data point.
+- To edit, visit the [repository page itself](https://github.com/SteelsenS/ASpace_Questions)
+
+# Data Points
+
